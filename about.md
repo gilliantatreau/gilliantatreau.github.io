@@ -13,7 +13,7 @@ Gillian typically prefers Python in her coding but enjoys working in R as well.
 She enjoys overcoming new challenges and loves unearthing the stories hidden within data. 
 Outside of work, Gillian enjoys curling up with a good book with her two cats, Fran and Haze, and hiking into the wilderness. 
 
-<img src="/assets/headshot.jpg" width="100" height="100">
+<img src="/assets/headshot.jpg" height="150">
 
 
 
