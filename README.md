@@ -2,9 +2,6 @@
 
 Data Scientist
 
-## [About](about.md)
-
-## [Contact](contact.md)
 
 ## [Projects](projects.md)
 
@@ -20,3 +17,8 @@ k-means clustering and word clouds for online retail transaction data.
 [Time Series Analysis of Ozone Exceedance Days in US National Parks](https://github.com/gilliantatreau/Time-Series-Analysis-of-Ozone-Exceedance-Days-in-US-National-Parks)
 
 ARIMA time series analysis, ADF tests, graphical analysis, EDA for ozone exceedance days in US National Parks. 
+
+## [About](about.md)
+
+## [Contact](contact.md)
+
